@@ -1,2 +1,8 @@
 # MarksmanDuel
 2D combat game for 2 players made entirely in vanilla javascript
+
+# PLAYING THE GAME
+you will have to have 2 players.
+
+Also every image or sound is made by ME
+so please respect it and don't use it without my permission
